@@ -1,4 +1,4 @@
-# Wordpress Roadmap Generator (o el nombre que elijas)
+# Wordpress Roadmap Generator
 
 Un script de Bash (Shell) que clona el *frontend* de un sitio web WordPress y genera automáticamente una "Hoja de Ruta" (Roadmap) técnica para su recreación.
 
