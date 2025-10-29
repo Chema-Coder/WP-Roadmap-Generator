@@ -40,4 +40,4 @@ Este script automatiza todo el proceso:
 
 ### Mi Rol en este Proyecto
 
-[cite_start]Este proyecto nació de mi experiencia profesional como gestor web freelance [cite: 135-137]. Quería automatizar el proceso de auditoría y planificación inicial de un proyecto, combinando mi pasión por **Linux** y el *scripting* con la necesidad de negocio de crear **estimaciones y planes de proyecto** de forma eficiente.
+Este proyecto nació de mi experiencia profesional como gestor web freelance. Quería automatizar el proceso de auditoría y planificación inicial de un proyecto, combinando mi pasión por Linux y el scripting con la necesidad de negocio de crear estimaciones y planes de proyecto de forma eficiente.
