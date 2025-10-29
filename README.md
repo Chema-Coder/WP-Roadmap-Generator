@@ -28,11 +28,11 @@ Este script automatiza todo el proceso:
 
 1.  Dar permisos de ejecución:
     ```bash
-    chmod +x tu-script.sh
+    chmod +x WP-Roadmap-Generator.sh
     ```
 2.  Ejecutar el script:
     ```bash
-    ./tu-script.sh [https://www.ejemplo.com](https://www.ejemplo.com)
+    ./WP-Roadmap-Generator.sh [https://www.ejemplo.com](https://www.ejemplo.com)
     ```
 3.  Revisar los archivos generados:
     * `CLONACION_REPORTE.txt`
