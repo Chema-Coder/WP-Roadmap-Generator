@@ -1,0 +1,11 @@
+# Archivos temporales de Vim
+*.swp
+*~
+
+# Archivos temporales de macOS
+.DS_Store
+
+# Archivos temporales de editores
+*.tmp
+*.bak
+*.old
